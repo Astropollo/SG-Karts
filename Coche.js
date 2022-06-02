@@ -216,7 +216,7 @@ class Coche {
     }
 
     ponerInicio(){
-        this.mover(100, 5*this.unidades, -100*this.unidades);
+        this.mover(0, 5*this.unidades, -50*this.unidades);
     }
 
     direccion(){
